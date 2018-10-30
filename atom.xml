@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Dr.Tickets票博士</title>
   <icon>https://www.gravatar.com/avatar/e54e9c932d45efd6bb282ccdebe1488f</icon>
-  <subtitle>全球演唱会最新票务信息</subtitle>
+  <subtitle>全球演唱会及演出最新票务信息</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.drtickets.net/"/>
-  <updated>2018-10-24T17:32:14.995Z</updated>
+  <updated>2018-10-30T13:28:28.443Z</updated>
   <id>https://www.drtickets.net/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>德云社2018全球巡演北美站 多伦多 温哥华 纽约 洛杉矶</title>
+    <link href="https://www.drtickets.net/deyunshe-north-america/"/>
+    <id>https://www.drtickets.net/deyunshe-north-america/</id>
+    <published>2018-10-26T06:40:12.000Z</published>
+    <updated>2018-10-30T13:28:28.443Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/deyunshe/audience.jpg" alt="德云社2018全球巡演北美站"></p><p>万众期待的德云社2018全球巡演要来北美了！应众多钢丝们的要求，这次会在多伦多，温哥华，纽约，还有洛杉矶四座城市上演。演出阵容更是非常强大，包括郭德纲，于谦，烧饼，曹鹤阳，高峰，栾云平，孟鹤堂，周九良。</p><p>演出地点：2018年11月10日 星期六 7PM<br>演出时间：John, W.H Bassett Theatre, 255 Front St. W, Toronto, ON M5V 2W6, Canada<br>订票页面：已售罄</p>]]></content>
+    
+    <summary type="html">
+    
+      2018 德云社 全球巡演北美站 ​ 多伦多 温哥华 纽约 洛杉矶
+    
+    </summary>
+    
+      <category term="北美" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E/"/>
+    
+    
+      <category term="洛杉矶" scheme="https://www.drtickets.net/tags/%E6%B4%9B%E6%9D%89%E7%9F%B6/"/>
+    
+      <category term="多伦多" scheme="https://www.drtickets.net/tags/%E5%A4%9A%E4%BC%A6%E5%A4%9A/"/>
+    
+      <category term="温哥华" scheme="https://www.drtickets.net/tags/%E6%B8%A9%E5%93%A5%E5%8D%8E/"/>
+    
+      <category term="德云社" scheme="https://www.drtickets.net/tags/%E5%BE%B7%E4%BA%91%E7%A4%BE/"/>
+    
+      <category term="全球巡演" scheme="https://www.drtickets.net/tags/%E5%85%A8%E7%90%83%E5%B7%A1%E6%BC%94/"/>
+    
+      <category term="纽约" scheme="https://www.drtickets.net/tags/%E7%BA%BD%E7%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>刘若英跟我走世界巡迴演唱会2018 - 拉斯维加斯站</title>
     <link href="https://www.drtickets.net/rene-liu-vegas/"/>
     <id>https://www.drtickets.net/rene-liu-vegas/</id>
     <published>2018-10-24T06:40:12.000Z</published>
-    <updated>2018-10-24T17:32:14.995Z</updated>
+    <updated>2018-10-30T13:24:04.309Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/liuruoying/rene-liu-vegas.jpg" alt="刘若英跟我走世界巡迴演唱会2018 - 拉斯维加斯站"></p><p>刘若英2018年跟我走世界巡迴演唱会要来美国拉斯维加斯站啦！演唱会还邀请到重量级嘉宾李宗盛，届时两人将同场满足众多歌迷！刘若英Rene Liu为中国台湾著名女歌手、演员、导演、词曲创作者，毕业于美国加州州立大学音乐系。出道以后曾经获得亚太影展最佳女主角，第32届台湾电影金马奖最佳电影歌曲奖，东京国际电影节最佳女主等众多奖项。众多乐迷朋友们，不要错过这场精彩的演唱会！让刘若英用美妙歌声为你唱出心底的回忆！</p><p>演出地点：Park Theater @ MGM Resort<br>演出时间：11月24日 9PM<br>【<a href="http://tidd.ly/aab60126" rel="external nofollow noopener noreferrer" target="_blank">订票页面</a>】</p>]]></content>
     
@@ -31,7 +63,7 @@
     
     </summary>
     
-      <category term="北美演唱会" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+      <category term="北美" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E/"/>
     
     
       <category term="演唱会" scheme="https://www.drtickets.net/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
@@ -49,7 +81,7 @@
     <link href="https://www.drtickets.net/luguangzhong-american/"/>
     <id>https://www.drtickets.net/luguangzhong-american/</id>
     <published>2018-10-23T06:40:12.000Z</published>
-    <updated>2018-10-23T19:13:08.400Z</updated>
+    <updated>2018-10-30T13:21:15.847Z</updated>
     
     <content type="html"><![CDATA[<p>作为华语乐坛的现象级歌手，卢广仲凭借扎实的音乐功底，唱出了《七天》、《慢灵魂》<br>和《有吉他的流行歌曲》等很多脍炙人口的流行歌曲。坦白，天真，朝气 ，蘑菇头，等等形象都已深入人心。他曾经在2009年第20届金曲奖中获得最佳新人奖，在2018年凭“鱼仔”一曲获得第29届金曲奖最佳年度歌曲奖。现在，这个大男孩在北美众多城市开演唱会了，小伙伴们快组队吧！</p><p><img src="/images/crowd-lu/crowd-lu-2018-usa.jpg" alt="卢广仲 2018世界巡演北美站"></p><p>【<a href="http://tidd.ly/aa651b69" rel="external nofollow noopener noreferrer" target="_blank">查看卢广仲所有演唱会信息</a>】</p><h3 id="卢广仲-2018世界巡演多伦多站信息"><a href="#卢广仲-2018世界巡演多伦多站信息" class="headerlink" title="卢广仲 2018世界巡演多伦多站信息"></a>卢广仲 2018世界巡演多伦多站信息</h3><p>演出地点：The Opera House | 735 Queen St. E., Toronto, Ontario M4M 1H1<br>演出时间：2018年10月29日 7:30PM<br>【<a href="http://tidd.ly/c6a55cac" rel="external nofollow noopener noreferrer" target="_blank">订票页面</a>】</p><h3 id="卢广仲-2018世界巡演费城站信息"><a href="#卢广仲-2018世界巡演费城站信息" class="headerlink" title="卢广仲 2018世界巡演费城站信息"></a>卢广仲 2018世界巡演费城站信息</h3><p>演出地点：The Foundry at the Fillmore Philadelphia | 28 E Allen St 2nd Fl, Philadelphia, Pennsylvania 19123<br>演出时间：2018年10月30日 8PM<br>【<a href="http://tidd.ly/842a5ed6" rel="external nofollow noopener noreferrer" target="_blank">订票页面</a>】</p><h3 id="卢广仲-2018世界巡演波士顿站信息"><a href="#卢广仲-2018世界巡演波士顿站信息" class="headerlink" title="卢广仲 2018世界巡演波士顿站信息"></a>卢广仲 2018世界巡演波士顿站信息</h3><p>演出地点：Middle East - Downstairs | 472 Massachusetts Ave, Cambridge, MA 02139<br>演出时间：2018年11月1日 7PM<br>【<a href="http://tidd.ly/14954347" rel="external nofollow noopener noreferrer" target="_blank">订票页面</a>】</p><h3 id="卢广仲-2018世界巡演温哥华站信息"><a href="#卢广仲-2018世界巡演温哥华站信息" class="headerlink" title="卢广仲 2018世界巡演温哥华站信息"></a>卢广仲 2018世界巡演温哥华站信息</h3><p>演出地点：The Biltmore Cabaret | 2755 Prince Edward St, Vancouver, British Columbia V5T 0A9<br>演出时间：2018年11月5日 7PM<br>【<a href="http://tidd.ly/639273d1" rel="external nofollow noopener noreferrer" target="_blank">订票页面</a>】</p><h3 id="卢广仲-2018世界巡演洛杉矶站信息"><a href="#卢广仲-2018世界巡演洛杉矶站信息" class="headerlink" title="卢广仲 2018世界巡演洛杉矶站信息"></a>卢广仲 2018世界巡演洛杉矶站信息</h3><p>演出地点：Catch One 4067 Pico Boulevard, Los Angeles, CA 90019<br>演出时间：2018年11月9日 8PM<br>【<a href="http://tidd.ly/e57b4ff4" rel="external nofollow noopener noreferrer" target="_blank">订票页面</a>】</p>]]></content>
     
@@ -59,7 +91,7 @@
     
     </summary>
     
-      <category term="北美演唱会" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+      <category term="北美" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E/"/>
     
     
       <category term="演唱会" scheme="https://www.drtickets.net/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
@@ -83,7 +115,7 @@
     <link href="https://www.drtickets.net/xuezhiqian-los-angeles/"/>
     <id>https://www.drtickets.net/xuezhiqian-los-angeles/</id>
     <published>2018-10-22T06:40:12.000Z</published>
-    <updated>2018-10-23T09:37:34.877Z</updated>
+    <updated>2018-10-30T13:24:12.829Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/xuezhiqian/joker-xue.jpg" alt="薛之谦“摩天大楼”2018世界巡回演唱会"></p><p>被誉为创作才子的薛之谦自出道以来，打造了多个畅销专辑，其中《动物世界》《高尚》《渡》等单曲一经发布，便迅速登顶各大音源榜单且持续霸榜，获奖无数。2018年发布单曲《哑巴》《肆无忌惮》《摩天大楼》等收获热烈反响，获得乐坛口碑和歌迷人气双赢。他同时还尝试演戏，多部影视剧作品都显现出他不俗的演技。现在，薛之谦的“摩天大楼”2018巡回演唱会将于11月11日抵达好莱坞！《摩天大楼》是薛之谦在2018年发行的首支个人单曲，这首歌会带你深入探寻摩天大楼中绮丽光景，带你挣脱桎梏，回归本真！众多乐迷不要错过！</p><p>演出地点：Dolby Theatre - 6801 Hollywood Blvd, Hollywood, CA 90028, USA<br>演出时间：2018年11月11日星期日 8PM<br>【<a href="http://tidd.ly/7190e523" rel="external nofollow noopener noreferrer" target="_blank">订票页面</a>】</p>]]></content>
     
@@ -93,7 +125,7 @@
     
     </summary>
     
-      <category term="北美演唱会" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+      <category term="北美" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E/"/>
     
     
       <category term="演唱会" scheme="https://www.drtickets.net/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
@@ -109,7 +141,7 @@
     <link href="https://www.drtickets.net/guns-n-roses-malaysia/"/>
     <id>https://www.drtickets.net/guns-n-roses-malaysia/</id>
     <published>2018-10-22T05:40:12.000Z</published>
-    <updated>2018-10-22T13:19:11.678Z</updated>
+    <updated>2018-10-30T13:20:48.191Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/guns-n-roses/guns-n-roses-malaysia.jpg" alt="Guns N’ Roses"></p><p>一代摇滚神话，一代人永远的记忆, Guns N’ Roses创始成员合体开唱! Guns N’ Roses世界巡回演唱会《NOT IN THIS LIFETIME TOUR》将于2018年11月14日将以重金属摇滚燃爆吉隆坡双威水上乐园！成立于1985年的Guns N’ Roses枪与玫瑰是一支美国的硬式摇滚乐队，在80年代末及90年代初期享有盛名，1994年之后乐队成员除了主唱埃克索尔·罗斯之外均经频繁更换，到2008年才发行新专辑。枪与玫瑰有“世界摇滚巨星”的地位和“世界上最危险的乐队”称号。他们的独一无二的风格中融合了摇滚、硬摇滚，蓝调，朋克和其他不同风格的音乐。他们用最无所忌惮的态度告诉全世界”这才是摇滚乐！” 该乐队自出道后经历了跌宕起伏，唱片销量高达1亿张，目前已经成为了摇滚乐中的重要标志。摇滚迷们千万不可错过这场摇滚乐史上最重要的盛典！</p><p>时间：2018.11.14 20:00<br>地点：吉隆坡双威水上乐园<br>【<a href="http://tidd.ly/94d07cbd" rel="external nofollow noopener noreferrer" target="_blank">购票页面</a>】</p>]]></content>
     
@@ -119,7 +151,7 @@
     
     </summary>
     
-      <category term="马来西亚演唱会" scheme="https://www.drtickets.net/categories/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+      <category term="马来西亚" scheme="https://www.drtickets.net/categories/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A/"/>
     
     
       <category term="演唱会" scheme="https://www.drtickets.net/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
@@ -135,7 +167,7 @@
     <link href="https://www.drtickets.net/zhangxueyou-dongjing/"/>
     <id>https://www.drtickets.net/zhangxueyou-dongjing/</id>
     <published>2018-10-19T05:40:12.000Z</published>
-    <updated>2018-10-19T18:24:34.420Z</updated>
+    <updated>2018-10-30T13:24:24.245Z</updated>
     
     <content type="html"><![CDATA[<p>歌神张学友A Classic Tour 学友.经典世界巡回演唱会东京站将在东京埼玉超级竞技场上演。张学友作为流行音乐领域的巨星，从出道至今，他创下数百首金曲，并被数以亿计的世人传唱，个人巡演踏遍全球累计610余场，唱片累计销量突破6000万张，音乐奖项累计超过260个，也许只有歌神才能让所有人没代沟，因为他的音乐，能够打动每一个人！一首首经典歌曲，不管是70后，还是80后，甚至90后，都十分喜爱。</p><p><img src="/images/zhangxueyou/jacky-cheung-2.jpg" alt="学友.经典世界巡回演唱会"></p><p>时间：2018.11.07 19:00（当地时间）<br>地点：东京埼玉超级竞技场<br>【<a href="http://tidd.ly/31acf5e7" rel="external nofollow noopener noreferrer" target="_blank">购票页面</a>】</p>]]></content>
     
@@ -145,7 +177,7 @@
     
     </summary>
     
-      <category term="日本演唱会" scheme="https://www.drtickets.net/categories/%E6%97%A5%E6%9C%AC%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+      <category term="日本" scheme="https://www.drtickets.net/categories/%E6%97%A5%E6%9C%AC/"/>
     
     
       <category term="歌神" scheme="https://www.drtickets.net/tags/%E6%AD%8C%E7%A5%9E/"/>
@@ -165,7 +197,7 @@
     <link href="https://www.drtickets.net/jay-chou-las-vegas/"/>
     <id>https://www.drtickets.net/jay-chou-las-vegas/</id>
     <published>2018-10-18T05:40:12.000Z</published>
-    <updated>2018-10-19T13:18:02.473Z</updated>
+    <updated>2018-10-30T13:20:57.595Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/zhoujielun/jay-chou-las-vegas.png" alt=""></p><p>亚洲天王周杰伦Jay Chou这次的地表最强2世界巡回演唱会将于2019年2月登陆美国赌城拉斯维加斯，地点就在MGM Grand Garden Arena。届时周杰伦将为歌迷们带来最新一轮巡演的视听盛宴，周杰伦的美国粉丝们千万不要错过！</p><p>日期：2019.02.09 周六 8PM，2019.02.10 周日 4PM<br>地点：MGM Grand Garden Arena | 3799 S Las Vegas Blvd, Las Vegas, NV<br>购票页面：待更新…</p>]]></content>
     
@@ -175,7 +207,7 @@
     
     </summary>
     
-      <category term="北美演唱会" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+      <category term="北美" scheme="https://www.drtickets.net/categories/%E5%8C%97%E7%BE%8E/"/>
     
     
       <category term="演唱会" scheme="https://www.drtickets.net/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
@@ -193,7 +225,7 @@
     <link href="https://www.drtickets.net/zhangxueyou-kaohsiung/"/>
     <id>https://www.drtickets.net/zhangxueyou-kaohsiung/</id>
     <published>2018-10-14T05:40:12.000Z</published>
-    <updated>2018-10-14T10:38:57.015Z</updated>
+    <updated>2018-10-30T13:24:33.245Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/zhangxueyou/jacky-cheung.jpg" alt="张学友"></p><p>好消息！歌神张学友 (Jacky Cheung) 世界巡回演唱会要来台湾高雄啦！可以说这是一场还未开唱就已成经典的演唱会! 张学友稳坐歌神宝座近三十年，迄今为止，华语乐坛中能够超越张学友的就只有他自己！</p><h2 id="歌神张学友世界巡回演唱会台湾高雄站相关信息"><a href="#歌神张学友世界巡回演唱会台湾高雄站相关信息" class="headerlink" title="歌神张学友世界巡回演唱会台湾高雄站相关信息"></a>歌神张学友世界巡回演唱会台湾高雄站相关信息</h2><p><strong>演出时间</strong>： 2019年1月4日-6日<br><strong>演出地点</strong>： 高雄巨蛋</p><p>【<a href="http://tidd.ly/c32467f6" rel="external nofollow noopener noreferrer" target="_blank">抢票网址</a>】</p>]]></content>
     
@@ -203,7 +235,7 @@
     
     </summary>
     
-      <category term="台湾演唱会" scheme="https://www.drtickets.net/categories/%E5%8F%B0%E6%B9%BE%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+      <category term="台湾" scheme="https://www.drtickets.net/categories/%E5%8F%B0%E6%B9%BE/"/>
     
     
       <category term="歌神" scheme="https://www.drtickets.net/tags/%E6%AD%8C%E7%A5%9E/"/>
