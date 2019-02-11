@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/zhangxueyou-dongjing/</loc>
+    
+    <lastmod>2019-02-11T13:27:18.236Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/zhangxueyou-kaohsiung/</loc>
+    
+    <lastmod>2019-02-11T13:26:56.161Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/wanglihong-malaysia/</loc>
     
     <lastmod>2019-02-11T13:24:19.982Z</lastmod>
@@ -425,20 +439,6 @@
     <loc>https://www.drtickets.net/hyukoh-europe/</loc>
     
     <lastmod>2018-10-31T21:02:36.046Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/zhangxueyou-kaohsiung/</loc>
-    
-    <lastmod>2018-10-30T13:24:33.245Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/zhangxueyou-dongjing/</loc>
-    
-    <lastmod>2018-10-30T13:24:24.245Z</lastmod>
     
   </url>
   
