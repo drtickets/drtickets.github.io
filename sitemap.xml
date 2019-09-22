@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/us-open/</loc>
+    
+    <lastmod>2019-09-22T14:09:48.805Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/cuijian-au/</loc>
     
     <lastmod>2019-09-22T08:09:44.445Z</lastmod>
@@ -1468,13 +1475,6 @@
     <loc>https://www.drtickets.net/the-wandering-earth-america/</loc>
     
     <lastmod>2019-02-08T17:31:31.328Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/us-open/</loc>
-    
-    <lastmod>2019-02-07T22:59:43.070Z</lastmod>
     
   </url>
   
