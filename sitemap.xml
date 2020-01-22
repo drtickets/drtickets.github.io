@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/bts/</loc>
+    
+    <lastmod>2020-01-22T22:26:26.063Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/uk-concerts-and-shows/</loc>
+    
+    <lastmod>2020-01-22T21:33:50.120Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/bts-eu/</loc>
     
     <lastmod>2020-01-22T21:25:33.976Z</lastmod>
@@ -47,13 +61,6 @@
     <loc>https://www.drtickets.net/mayday-sigapore/</loc>
     
     <lastmod>2020-01-21T18:44:27.395Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/uk-concerts-and-shows/</loc>
-    
-    <lastmod>2020-01-21T07:48:41.636Z</lastmod>
     
   </url>
   
@@ -852,13 +859,6 @@
     <loc>https://www.drtickets.net/lijian-america/</loc>
     
     <lastmod>2019-09-19T06:43:57.332Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/bts/</loc>
-    
-    <lastmod>2019-09-15T10:41:59.681Z</lastmod>
     
   </url>
   
