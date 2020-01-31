@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/super-bowl/</loc>
+    
+    <lastmod>2020-01-31T23:44:05.652Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/france-concerts/</loc>
     
     <lastmod>2020-01-31T23:22:10.571Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://www.drtickets.net/flicker-live-au/</loc>
     
     <lastmod>2020-01-30T09:16:44.245Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/super-bowl/</loc>
-    
-    <lastmod>2020-01-29T23:33:16.406Z</lastmod>
     
   </url>
   
