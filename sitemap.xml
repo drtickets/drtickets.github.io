@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.drtickets.net/concerts-and-performance-in-north-america/</loc>
+    <loc>https://www.drtickets.net/elton-john-eu/</loc>
     
-    <lastmod>2020-02-27T22:12:38.287Z</lastmod>
+    <lastmod>2020-02-28T16:49:59.013Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/elton-john-uk/</loc>
+    
+    <lastmod>2020-02-28T16:48:02.842Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.drtickets.net/uk-concerts-and-shows/</loc>
     
-    <lastmod>2020-02-26T14:54:27.011Z</lastmod>
+    <lastmod>2020-02-27T22:17:21.172Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/concerts-and-performance-in-north-america/</loc>
+    
+    <lastmod>2020-02-27T22:12:38.287Z</lastmod>
     
   </url>
   
@@ -1937,20 +1951,6 @@
     <loc>https://www.drtickets.net/all-about-eve/</loc>
     
     <lastmod>2019-04-07T11:25:26.793Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/elton-john-eu/</loc>
-    
-    <lastmod>2019-04-07T10:59:53.304Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/elton-john-uk/</loc>
-    
-    <lastmod>2019-04-07T08:08:11.334Z</lastmod>
     
   </url>
   
