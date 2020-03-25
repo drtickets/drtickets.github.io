@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/jeff-chang-uk/</loc>
+    
+    <lastmod>2020-03-25T10:16:01.521Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/concerts-and-performance-in-north-america/</loc>
     
     <lastmod>2020-03-22T17:23:16.388Z</lastmod>
@@ -51,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://www.drtickets.net/jjlin-concerts/</loc>
+    <loc>https://www.drtickets.net/singapore-concerts/</loc>
     
     <lastmod>2020-02-29T21:51:29.625Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.drtickets.net/singapore-concerts/</loc>
+    <loc>https://www.drtickets.net/malaysia-concerts/</loc>
     
     <lastmod>2020-02-29T21:51:29.625Z</lastmod>
     
@@ -79,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://www.drtickets.net/malaysia-concerts/</loc>
+    <loc>https://www.drtickets.net/jjlin-concerts/</loc>
     
     <lastmod>2020-02-29T21:51:29.625Z</lastmod>
     
@@ -663,13 +670,6 @@
     <loc>https://www.drtickets.net/talk-show-uk/</loc>
     
     <lastmod>2020-01-08T23:19:07.580Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.drtickets.net/jeff-chang-uk/</loc>
-    
-    <lastmod>2020-01-06T20:47:37.621Z</lastmod>
     
   </url>
   
