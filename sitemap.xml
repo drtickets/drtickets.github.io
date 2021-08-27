@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/linda-and-fred-concert/</loc>
+    
+    <lastmod>2021-08-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/london-o2-arena/</loc>
     
     <lastmod>2021-08-06</lastmod>
@@ -7180,6 +7187,20 @@
   
   <url>
     <loc>https://www.drtickets.net/tags/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E9%9F%B3%E4%B9%90%E8%8A%82/</loc>
+    <lastmod>2021-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/tags/%E9%92%9F%E5%98%89%E6%AC%A3/</loc>
+    <lastmod>2021-08-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/tags/%E9%83%91%E4%BF%8A%E5%BC%98/</loc>
     <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
