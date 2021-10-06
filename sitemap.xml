@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/mimi-chu-us/</loc>
+    
+    <lastmod>2021-10-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/bts-america/</loc>
     
     <lastmod>2021-10-02</lastmod>
@@ -7201,6 +7208,13 @@
   
   <url>
     <loc>https://www.drtickets.net/tags/%E8%B5%B5%E4%BC%A0/</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/tags/%E6%9C%B1%E5%92%AA%E5%92%AA/</loc>
     <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
