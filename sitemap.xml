@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.drtickets.net/miyavi-north-america/</loc>
+    
+    <lastmod>2021-10-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.drtickets.net/fish-leong-us/</loc>
     
     <lastmod>2021-10-15</lastmod>
@@ -7243,6 +7250,34 @@
   
   <url>
     <loc>https://www.drtickets.net/tags/%E7%BE%8E%E9%AB%98%E6%A2%85%E5%89%A7%E9%99%A2/</loc>
+    <lastmod>2021-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/tags/%E7%9F%B3%E5%8E%9F%E8%B4%B5%E9%9B%85/</loc>
+    <lastmod>2021-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/tags/Miyavi/</loc>
+    <lastmod>2021-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/tags/%E6%97%A5%E6%9C%AC%E8%A7%86%E8%A7%89%E7%B3%BB/</loc>
+    <lastmod>2021-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.drtickets.net/tags/%E7%9A%AE%E8%8C%A8%E5%A0%A1/</loc>
     <lastmod>2021-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
